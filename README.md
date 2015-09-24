@@ -9,7 +9,7 @@ ruby tweet-search.rb @user text_string
 ```
 
 Example run:
-```bash
+```
 ruby tweet-search.rb @adampats "#mesos"
 Found @adampats!
 
