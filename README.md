@@ -28,7 +28,3 @@ This tweet brought to you by, #Mesos.
 
 Done.
 ```
-
-* TODO: Add tweet.url to the response JSON
-* TODO: Get more tweets than the user_timeline limit of 200
-* TODO: Fix tweet text truncation
